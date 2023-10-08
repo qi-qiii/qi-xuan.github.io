@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<link href="vegetables.css" rel="stylesheet">
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetables</title>
+</head>
+<body>
+    <div class='bigback'>
+    <div class='total'>
+        
+        <!-- 上部區域 -->
+        <header class='Vege'>
+            <h1 class='big'>Vegetables</h1>
+        
+            <div class='media'>
+                <a class='face' target="_blank"><img src="C:\Users\88690\Desktop\vegetable\btn_facebook.png" alt=""/></a>
+                <a class='ins' href="" target="_blank"><img src="C:\Users\88690\Desktop\vegetable\btn_instagram.png" alt=""/></a>
+                <div class='line'></div><!--中間斜線-->
+                <a class='login' href="">LOGIN</a>
+                <a class='join' href="">JOIN</a>
+            </div> 
+        </header>
+        <nav>
+            <a href="">Home</a>
+            <a href="">About Us</a>
+            <a href="">Vegetables</a>
+            <a href="">Online</a>
+            <a href="">Contact</a>
+        </nav>
+        
+        <!-- 內文圖片 -->
+
+        <div class='pumkin'>
+            <img src="C:\Users\88690\Desktop\vegetable\img_main_pumpkin.png">
+        </div>
+
+        <!-- 內文下部 -->
+        <div class='undernav'>
+            <div class='vegeback'>
+                <h2 class='smallvege'>
+                    Vegetables
+                </h2>
+            </div>
+            <div class='conback'>
+                <h2 class='smallcontact'>
+                    Contact
+                </h2>
+            </div>
+        </div>
+
+        <div class='phandte'>
+        
+            <div class='Left'><!-- 內文左下 -->
+
+                <div class='carrot'>
+                    <img src="C:\Users\88690\Desktop\vegetable\img_vegetables_carrot.png">
+                </div>
+                <div class='corn'>
+                    <img src="C:\Users\88690\Desktop\vegetable\img_vegetables_corn.png">
+                 </div>
+                <div class='pepper'>
+                    <img src="C:\Users\88690\Desktop\vegetable\img_vegetables_pepper.png">
+                </div>
+            </div>
+
+            <div class='Right'><!-- 內文右下 -->
+                <div class='righttext'>
+                    <p class='textone'>
+                        For any questions or suggestions about Vegetables, Vegetables Club or your online order 
+                        you can contact Vegetables Customer Service by phone, email or post and we’ll be happy to 
+                        help.
+                    </p>
+
+                    <p class='linetwo'></p><!--中間斜線-->
+
+                    <p class='texttwo'>
+                        E-mail : Vegetables@aaabbccc.com 
+                    </p>
+                    <p class='textthree'>
+                        PHONE : +886-123-456-789
+                    </p>
+                </div>  
+            </div>
+            
+        </div>
+
+        
+
+    </div>
+
+    
+    <!-- 頁腳區域 -->
+    <footer class='foot'>
+        <p class='foottext'>Copyrights 2017 Vegetables cise / Design by Vegetables</p>
+
+    </footer>
+</div>
+</body>
+
+</html>
